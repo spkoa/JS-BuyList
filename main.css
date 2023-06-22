@@ -335,7 +335,7 @@ button:hover::after {
  padding: 5px;
  border-radius: 5px;
  background-color: violet;
- color: white;
+ color: purple;
  font-size: 12px;
  visibility: hidden;
  opacity: 0;
